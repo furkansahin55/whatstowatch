@@ -1,4 +1,4 @@
-# Whats to Watch
+# Whats to Watch (Under Development)
 <b>WhatsToWatch</b> is a Movie recommender system. <br>
 Made by Furkan Sahin as a personal hobby project.<br>
 <h3><b>Technologies used :</b></h3>
